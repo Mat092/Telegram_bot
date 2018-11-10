@@ -3,7 +3,7 @@ import requests as req
 import time 
 import datetime
 
-TOKEN = "654463728:AAFLs7lN519jmbolzSV3PCeUadEiwYXdPtE"
+TOKEN = ""
 Name = "Mat"
 URL= "https://api.telegram.org/bot{}/".format(TOKEN)
 
